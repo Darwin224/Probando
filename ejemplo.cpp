@@ -10,7 +10,7 @@ void mostrar(void);
 int main(){
     
     int altura=0;
-    
+    cout<<'hola';
     mostrar();
     cin>>altura;
      for (int i = 1; i <= altura; i++) {
