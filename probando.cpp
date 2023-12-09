@@ -17,6 +17,7 @@ int main(){
 int c=5;
 int b=0;
 
+//hola
    if(c>4 && b>3){
 
     cout<<"verdadero";
